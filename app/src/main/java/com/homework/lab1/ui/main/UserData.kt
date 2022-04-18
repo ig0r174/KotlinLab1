@@ -6,5 +6,5 @@ data class UserData(
         Tariff(id = 1, name = "Улыбка (бесплатный тариф)", description = "Скорость до 100 Мбит/c", amount = 0.0),
         Tariff(id = 2, name = "Победа", description = "Скорость до 350 Мбит/c", amount = 400.0)
     ),
-    val user: User = User(names = "Иванов Иван Иванович", address = "Сахалин, ул. Пушкина, д. Колотушкина")
+    //val user: User = User(names = "Иванов Иван Иванович", address = "Сахалин, ул. Пушкина, д. Колотушкина")
 )
